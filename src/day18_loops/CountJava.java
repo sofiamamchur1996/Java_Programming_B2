@@ -16,7 +16,7 @@ public class CountJava {
 
 
         while (str.contains("java")) {
-            str = str.replaceFirst("java", "*");
+            str = str.replaceFirst("java", "*");  //"* is a * language.*"
             //  *is a java language.java
             //  *is a * language.java
             //  *is a * language.*
