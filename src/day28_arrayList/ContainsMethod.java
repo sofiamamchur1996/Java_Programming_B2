@@ -16,5 +16,4 @@ public class ContainsMethod {
         System.out.println( nums.contains(700) );
 
     }
-
 }
