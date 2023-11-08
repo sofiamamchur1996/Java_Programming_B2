@@ -22,7 +22,7 @@ public class Caffeine {
     .addAll (index, Collection ) - >Collection - > Arrays.asList(arg) - > All will be added starting from the given INDEX
  */
 
-        public static void main(String[] args) { s
+        public static void main(String[] args) {
             ArrayList<String> drinks = new ArrayList<>();
             System.out.println(drinks.size());
 
