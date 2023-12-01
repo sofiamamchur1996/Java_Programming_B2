@@ -1,4 +1,4 @@
-package day40_exception.collect;
+package day41_collection.collect;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
